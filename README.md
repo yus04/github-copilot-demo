@@ -3,6 +3,10 @@
 
 ## GitHub Copilot
 - コメントからコード生成 (suggest.py)
+  - `# Hello World を出力`
+  - `Class Ani...` を入力しても続きが表示されない
+  - context.py を開く
+  - `Class Ani...` を入力すると context.py を元に続きが提案
 - コンテキストファイルからコード提案 (context.py)
 
 
