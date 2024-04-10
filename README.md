@@ -13,6 +13,7 @@
 ## GitHub Copilot Chat
 - ソースコードの解説 (explain.py)
   - 右クリック > 「Copilot」 > 「Start in Editor」
+  - 「この関数を説明して」と入力して実行
   - 該当コードを選択した状態で Copilot Chat 画面から質問
   - (「Explain This」は英語で出力されるため利用しない)
 - バグ修正 (fix.py)
