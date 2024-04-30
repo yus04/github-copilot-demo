@@ -30,3 +30,8 @@
   - commit.py を変更
   - 変更をステージングして、☆を押下
 
+
+## GitHub Copilot Enterprise
+- PR 要約
+- GitHub.com 上のチャット
+  - Issue の要約
